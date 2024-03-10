@@ -1,6 +1,5 @@
 # xiap_dseq2
 
-# xiap_dseq
 <br><br><br><br>
 <b>This repository holds scripts for DSeq2 analysis of NCBI RNA sequencing data set GSE15168</b><br><br>
 <br><br><br>
